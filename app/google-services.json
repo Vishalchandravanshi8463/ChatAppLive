@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902857111036",
+    "project_id": "chatapplive-ea997",
+    "storage_bucket": "chatapplive-ea997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902857111036:android:a130ec228ecccba14e6e79",
+        "android_client_info": {
+          "package_name": "com.example.chatapplive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPs0fCe7sLoSJsu0fEHqr2XcNVWHoY-QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
